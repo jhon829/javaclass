@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/C084007_kimdongyoen_week5/C084007_kimdongyoen_week5.iml" filepath="$PROJECT_DIR$/C084007_kimdongyoen_week5/C084007_kimdongyoen_week5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array3/array3.iml" filepath="$PROJECT_DIR$/array3/array3.iml" />
       <module fileurl="file://$PROJECT_DIR$/chp3/chp3.iml" filepath="$PROJECT_DIR$/chp3/chp3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chp4/chp4.iml" filepath="$PROJECT_DIR$/chp4/chp4.iml" />
       <module fileurl="file://$PROJECT_DIR$/chp5/chp5.iml" filepath="$PROJECT_DIR$/chp5/chp5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaclass.iml" filepath="$PROJECT_DIR$/.idea/javaclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
