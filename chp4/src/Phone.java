@@ -1,3 +1,13 @@
+
+class Phonemodel {
+    String model;
+    int value;
+
+    void print() {
+        System.out.println(value + " 원짜리 " + model + "카메라");
+    }
+}
+
 public class Phone {
         public static void main(String[] args) {
             Phonemodel myPhone = new Phonemodel();
@@ -12,11 +22,3 @@ public class Phone {
         }
 }
 
-class Phonemodel {
-    String model;
-    int value;
-
-    void print() {
-        System.out.println(value + " 원짜리 " + model + "카메라");
-    }
-}
