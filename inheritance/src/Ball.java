@@ -1,3 +1,5 @@
+// Ball
+
 public class Ball extends Circle {
 	private String color;
 
@@ -6,10 +8,10 @@ public class Ball extends Circle {
 	}
 
 	public void findColor() {
-		System.out.println(color + " ���̴�.");
+		System.out.println(color + " 공이다.");
 	}
 
 	public void findVolume() {
-		System.out.println("���Ǵ� 4/3*(��*������*������*������)�̴�.");
+		System.out.println("부피는 4/3*(pi*반지름*반지름*반지름)이다.");
 	}
 }
