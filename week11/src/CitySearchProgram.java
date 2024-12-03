@@ -13,7 +13,7 @@ class Location {
 
     @Override
     public String toString() {
-        return String.format("위도: %.2f, 경도: %.2f", latitude, longitude);
+        return String.format("위도: %.1f, 경도: %.1f", latitude, longitude);
     }
 }
 
@@ -30,7 +30,7 @@ public class CitySearchProgram {
             cities.put(name, new Location(name, latitude, longitude));
         }
 
-        System.out.println("\n저장된 도시 정보:");
+        System.out.println("\n출력 :");
         for (String cityName : cities.keySet()) {
             System.out.println(cityName + " - " + cities.get(cityName));
         }
